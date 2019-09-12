@@ -1,0 +1,28 @@
+﻿{
+	"version": 1568272272,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/phur-sheet0.png",
+		"images/seed-sheet0.png",
+		"images/water-sheet0.png",
+		"images/cutter-sheet0.png",
+		"images/basket-sheet0.png",
+		"images/sray-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite11-sheet0.png",
+		"images/ddd-sheet0.png",
+		"images/ddd-sheet1.png",
+		"images/sprite13-sheet0.png",
+		"images/sprite15-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
